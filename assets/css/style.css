@@ -1,0 +1,55 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.keterangan{
+    padding-right: 100px;
+    font-weight: bold;
+}
+
+.inputan{
+    padding-right: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 35px;
+    width: 500px;
+}
+
+table{
+    border: 0;
+    align-items: center;
+}
+
+.inputan-jurusan{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 35px;
+    width: 500px;
+    font-size: 15px;
+}
+
+.button{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px;
+    height: 50px;
+    width: 90px;
+}
+
+.button-view{
+    padding-top: -10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 50px;
+    width: 100px;
+}
+
+a{
+    text-decoration: none;
+}
